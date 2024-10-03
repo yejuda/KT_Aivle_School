@@ -1,4 +1,0 @@
-1.1 bus_station_boarding_month_202408
-1.2 seoul_moving_month_202408
-
-위의 두 파일은 용량이 너무 커서 업로드X
