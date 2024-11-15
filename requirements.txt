@@ -1,0 +1,10 @@
+
+keras-nightly==3.6.0.dev2024092603
+mtcnn==0.1.1
+numpy==1.26.4
+opencv-python==4.10.0.84
+pandas==2.2.3
+pillow==10.4.0
+tensorflow==2.17.0
+torch==2.4.1
+ultralytics==8.3.3
