@@ -14,7 +14,12 @@
 - **새로운 해결책: 실시간 얼굴 인식 모델 이용**
   - 고속도로 하이패스와 같이 출입하는 과정에서 얼굴을 인식하여 출입 여부를 실시간으로 해결하는 아이디어가 제시되었습니다.
   - 해당 아이디어가 구현되면 출퇴근 및 점심 시간에 낭비되는 시간을 줄일 수 있습니다.
+## 문제 해결 프로세스
+<img src="https://github.com/user-attachments/assets/a1973d59-ef6c-4f11-98fb-4daa4a3a6ee8" width="500" height="200"/>
 
+## 결론
+세 가지 모델 중 YOLO 모델이 성능이 가장 좋았습니다.
+<img src="https://github.com/user-attachments/assets/3f52c133-e79d-41f1-89d9-ea348d9abb9a" width="600" height="350"/>
 
 ## 데이터 출처
 Kaggle, Roboflow Universe   
