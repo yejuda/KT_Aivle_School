@@ -19,7 +19,7 @@
 
 ## 결론
 세 가지 모델 중 YOLO 모델이 성능이 가장 좋았습니다.
-<img src="https://github.com/user-attachments/assets/3f52c133-e79d-41f1-89d9-ea348d9abb9a" width="600" height="350"/>
+<img src="https://github.com/user-attachments/assets/3f52c133-e79d-41f1-89d9-ea348d9abb9a" width="500" height="250"/>
 
 ## 데이터 출처
 Kaggle, Roboflow Universe   
