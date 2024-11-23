@@ -7,6 +7,7 @@ Classification, Recommendation
 2. 허깅페이스의 언어모델(BERT) 파인 튜닝하기
 3. 모델 활용 및 추가 학습을 위한 데이터 수집
 ## 시스템 구성 - 활용할 모델
-![image](https://github.com/user-attachments/assets/7ae3be62-974d-489b-a09c-a41d74a15fb6)
+<img src="https://github.com/user-attachments/assets/7ae3be62-974d-489b-a09c-a41d74a15fb6" width="850" height="400"/>
+
 ## 시스템 구성 - 세부절차
-![image](https://github.com/user-attachments/assets/e083a8d8-497b-439a-80c0-73f378409775)
+<img src="https://github.com/user-attachments/assets/e083a8d8-497b-439a-80c0-73f378409775" width="850" height="400"/>
