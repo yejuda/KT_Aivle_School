@@ -18,7 +18,7 @@
 <img src="https://github.com/user-attachments/assets/a1973d59-ef6c-4f11-98fb-4daa4a3a6ee8" width="500" height="200"/>
 
 ## 결론
-세 가지 모델 중 YOLO 모델이 성능이 가장 좋았습니다.
+세 가지 모델 중 YOLO 모델이 성능이 가장 좋았습니다.    
 <img src="https://github.com/user-attachments/assets/3f52c133-e79d-41f1-89d9-ea348d9abb9a" width="500" height="250"/>
 
 ## 데이터 출처
