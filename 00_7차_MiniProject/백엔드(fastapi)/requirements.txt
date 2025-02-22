@@ -1,0 +1,10 @@
+openai==0.28
+transformers
+torch
+haversine
+pandas
+fastapi
+uvicorn[standard]
+folium
+pyodbc
+sqlalchemy

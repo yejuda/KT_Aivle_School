@@ -1,0 +1,25 @@
+.pageButton {
+  flex-grow: 1;
+  background-color: #11263d;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: var(--border-radius);
+  font-size: 16px;
+  cursor: pointer;
+  transition:
+    background-color 0.3s,
+    transform 0.1s ease-in-out;
+  margin: 0 3px;
+}
+
+.pageButton.active {
+  background-color: #212529;
+  color: white;
+}
+
+.pageButton:hover {
+  background-color: #495057;
+  color: white;
+  transform: scale(1.05);
+}
