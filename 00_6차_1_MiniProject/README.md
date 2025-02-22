@@ -25,3 +25,9 @@
 - 기본 비즈니스 절차   
   1. 발주 담당자: 당일 및 최근 판매량과 리드타임(발주 후 입고까지 기간) 정보에 기초하여 발주
   2. 발주 후 상품은 각각의 리드타임에 맞게 입고
+
+## 발표 자료
+<img src="https://github.com/user-attachments/assets/7e0cd1b3-5ce5-429e-952e-277ef5430e7f" width="80%">
+<img src="https://github.com/user-attachments/assets/55013a13-c096-481a-a689-2a7348a67549" width="80%">
+<img src="https://github.com/user-attachments/assets/f1cfe6fd-0947-499c-aa5e-a09c1a7ee4c2" width="80%">
+<img src="https://github.com/user-attachments/assets/f421a24a-9296-4234-b5d5-74cf8ff3369d" width="80%">
