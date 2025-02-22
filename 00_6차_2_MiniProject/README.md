@@ -11,3 +11,8 @@ Classification, Recommendation
 
 ## 시스템 구성 - 세부절차
 <img src="https://github.com/user-attachments/assets/e083a8d8-497b-439a-80c0-73f378409775" width="850" height="400"/>
+
+## 발표 자료
+<img src="https://github.com/user-attachments/assets/89f13279-c57b-440c-bd42-c9d619516859" width="770" height="430"/>
+<img src="https://github.com/user-attachments/assets/1ca36c17-c95c-4f61-b2c5-cbcb3b4e85b7" width="770" height="430"/>
+<img src="https://github.com/user-attachments/assets/7885d73e-19e2-4a66-b859-00673c4b3e98" width="770" height="430"/>
